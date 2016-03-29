@@ -1,9 +1,12 @@
 puphpet/centos65-x64
+--
 nvm 0.31.0
 node 
 0.12.4
 5.9.1
 git 1.7.1
 nano
-
+--
+package puphpet/centos65-x64/nvm_git
+--
 
